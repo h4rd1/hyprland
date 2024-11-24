@@ -14,3 +14,4 @@ hyperpaper /
 grim /
 telegram-desktop /
 ttf-jetbrains-mono /
+vim /
