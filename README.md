@@ -1,5 +1,6 @@
 # hyprland
-
+# Тема sddm sugar-dark
+# nort-ttf
 
 pacman -Syu 
 pacman -S alacritty /
@@ -15,3 +16,5 @@ grim /
 telegram-desktop /
 ttf-jetbrains-mono /
 vim /
+sddm /
+
